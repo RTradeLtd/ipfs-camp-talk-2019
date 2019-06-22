@@ -24,7 +24,7 @@ style: basic-style.css
 * Android
 * MacOS (XNU Kernel)
 * Windows 10 (Windows Subsystem for Linux)
-* Relational Databases (PostgreSQL, MySQL, MongoDB)
+* Relational Databases (PostgreSQL, MySQL)
 * iOS (XNU Kernel)
 
 -- 
