@@ -13,19 +13,19 @@ style: basic-style.css
 
 ## <u> Why Does Open Source Matter </u>
 
-Open source matters because it gives us true collaborative freedom to explore and develop new ways to help society evolve.
-
-Everything we know and love with today's technology, and use on a daily basis is, or has deep roots in open source. 
+* Open source matters because it gives us true collaborative freedom to explore and develop new ways to help society evolve
+* Everything we know and love with today's technology, and use on a daily basis is deeply rooted in open-source either indirectly or directly
 
 -- 
 
 ## <u> Examples Of Using Open Source Tech </u>
 
-* HTTP
 * Linux
-* Windows 10 (ships with an optional linux subsystem)
-* Relational Databases (PostgreSQL)
 * Android
+* MacOS (XNU Kernel)
+* Windows 10 (Windows Subsystem for Linux)
+* Relational Databases (PostgreSQL, MySQL, MongoDB)
+* iOS (XNU Kernel)
 
 -- 
 
@@ -49,3 +49,7 @@ Everything we know and love with today's technology, and use on a daily basis is
 * Use open-source alternatives to closed-source technology
 * Purchase licenses for the open-source software if affordable
 * Release portions of your product as open-source
+
+--
+
+## Business today are more complicated than ever and open source provides innovation that helps all sizes companies develop complex modern day solutions. 
