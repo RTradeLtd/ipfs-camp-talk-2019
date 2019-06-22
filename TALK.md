@@ -25,20 +25,22 @@ Everything we know and love with today's technology, and use on a daily basis is
 * Linux
 * Windows 10 (ships with an optional linux subsystem)
 * Relational Databases (PostgreSQL)
-
+* Android
 
 -- 
 
 ## <u> How You Can Help As An Individual </u>
 
 * Engage with code maintainers
-* "see something say something"
+* If you experience unknown issues, file a bug report
+* If you don't know how to program, help with documentation
 
 -- 
 
 ## <u> How You Can Help As A Community </u>
 
 * Encourage the communities you participate in to leverage open source
+* Host community events for your favourite open-source software
 
 --
 
