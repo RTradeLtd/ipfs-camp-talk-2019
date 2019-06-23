@@ -35,6 +35,7 @@ style: basic-style.css
 * Contributions aren't just limited to code
    * Community engagement
    * Community participation
+   * Community support
 * File bug reports 
 
 -- 
