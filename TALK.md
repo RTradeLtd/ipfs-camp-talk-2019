@@ -20,36 +20,31 @@ style: basic-style.css
 
 ## <u> Examples Of Using Open Source Tech </u>
 
-* Linux
 * Android
+* iOS (XNU Kernel)
+* Linux (Ubuntu)
 * MacOS (XNU Kernel)
 * Windows 10 (Windows Subsystem for Linux)
 * Relational Databases (PostgreSQL, MySQL)
-* iOS (XNU Kernel)
 
 -- 
 
 ## <u> How You Can Help As An Individual </u>
 
 * Engage with code maintainers
-* If you experience unknown issues, file a bug report
-* If you don't know how to program, help with documentation
+* Contributions aren't just limited to code
+   * Community engagement
+   * Community participation
+* File bug reports 
 
 -- 
-
-## <u> How You Can Help As A Community </u>
-
-* Encourage the communities you participate in to leverage open source
-* Host community events for your favourite open-source software
-
---
 
 ## <u> How You Can Help As A Business Owner </u>
 
 * Use open-source alternatives to closed-source technology
-* Purchase licenses for the open-source software if affordable
+* Purchase enterprise licenses for the open-source software if affordable
 * Release portions of your product as open-source
 
 --
 
-## Business today are more complicated than ever and open source provides innovation that helps all sizes companies develop complex modern day solutions. 
+## Businesses today are more complicated than ever and open source provides innovation that helps all sizes of companies develop complex modern day solutions. 
